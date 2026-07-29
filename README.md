@@ -40,11 +40,16 @@ A web application that analyzes daily sleep habits and predicts sleep quality us
 
 ## Screenshots
 
-* Dashboard
-* Sleep Log Form
-* Sleep Analysis
-* Recommendations
-* Dark Mode
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshot/img1.png)
+
+### Login Page
+![Log Data](screenshot/img2.png)
+
+### Dashboard
+![Dashboard](screenshot/img3.png)
 
 ---
 

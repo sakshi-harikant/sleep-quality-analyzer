@@ -39,16 +39,10 @@ A web application that analyzes daily sleep habits and predicts sleep quality us
 ---
 
 ## Screenshots
-
-## 📸 Screenshots
-
-### Home Page
 ![Home Page](screen-shot/homepage.png)
 
-### Login Page
-![Log Data](screen-shot/LogData(2).png)
+![Log Data](screen-shot/LogData.png)
 
-### Dashboard
 ![Dashboard](screen-shot/dashboard.png)
 
 ---
